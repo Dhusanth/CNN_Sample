@@ -1,0 +1,15 @@
+git clone https://github.com/Dhusanth/CNN_Sample.git
+  422  ll
+  423  cd CNN_Sample/
+  424  ll
+  425  clear
+  426  git status
+  427  git add test_set
+  428  git commit -m "Added test images set"
+  429  git config --global user.email "dhusanth28@yahoo.com"
+  430  git add test_set
+  431  git push origin master 
+  432  git add training_set
+  433  git commit -m "Added training images set"
+  434  git push origin master 
+  435  history 
